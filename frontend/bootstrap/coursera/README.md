@@ -2,7 +2,7 @@
 
 #### Overview
 
-This course is the part of class of Full-Stack Web Development with React 
+This course is the part of the class of Full-Stack Web Development with React 
 
 What I learned is listed below
 
@@ -17,7 +17,7 @@ What I learned is listed below
 
 This course is great for those who want to know what Bootstrap and Responsive Web Design are.
 
-Before taking this class I recommend you to learn HTML and CSS simply through tutorial website like [TutorialsPoint](https://www.tutorialspoint.com/html/index.htm)
+Before taking this class, I recommend you to learn HTML and CSS simply through tutorial websites like [TutorialsPoint](https://www.tutorialspoint.com/html/index.htm)
 or [W3Schools](https://www.w3schools.com/html/)
 
-link : https://www.coursera.org/learn/bootstrap-4
+link: https://www.coursera.org/learn/bootstrap-4
