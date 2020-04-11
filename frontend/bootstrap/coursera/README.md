@@ -1,6 +1,6 @@
 # Full-Stack Web Development with React - Bootstrap 4
 
-#### Overview
+## Overview
 
 This course is the part of the class of Full-Stack Web Development with React 
 
@@ -13,7 +13,7 @@ What I learned is listed below
 * npm
 * git
 
-#### Review
+## Review
 
 This course is great for those who want to know what Bootstrap and Responsive Web Design are.
 
